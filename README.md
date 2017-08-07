@@ -1,4 +1,5 @@
-# README
+# Rails Blogger
+From The Odin Project's [curriculum](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
